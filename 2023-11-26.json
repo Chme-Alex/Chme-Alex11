@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Barrett",
+  "age": 19,
+  "address": {
+    "street": "Zuvad Junction",
+    "city": "Tohiabu",
+    "state": "AL",
+    "zip": "65665"
+  },
+  "contact": {
+    "phone": "(365) 981-5262",
+    "servicePhone": "800958989"
+  },
+  "birthday": "2005-04-30T18:35:55.133Z",
+  "ip": "172.243.254.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Pipci si gajori do koj pipdin pomubjo is wizvo kotwa guno arhucad tookev. Sucnakfa oniulaot barozo nacomi fejeshav ak ok emibo eg gem hovbuza adejeeg cobsunog hugviwec calewuje mu. Rapavfa ce keujpud ribigdaj sasuza kiv golicca rujja oluebiwe icu ozawaz lin izonet. Hibov edewa mit me nubpini he bok mineavo mucig vohejiki pewam gaco firvi kaopisi ku tebi sonoj ipwetun.",
+    "bio": "Lelawu immem atodufkiz megose pik ol fu na tana ko mafcil fu cunadot ruf. Waprikoh adsim lijijap wunoric wivnepteh zapjalat wu baguseve evifef noledino pi one pasepun. Sinzefe ovlel wak gofjed hana fi gam fobar un zaig tu gokiketu leh giis wa evlaw li regrul. Ijjuv vihrakok zagijlod porut odigebet uduc to vepvamta uhuwec po nemkugbu liove nucce po."
+  },
+  "apiKey": "9539dafb301bc0f6fd03b3dd4c409ba8857bf2b7bd44f59130b9e752bbb11898",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
