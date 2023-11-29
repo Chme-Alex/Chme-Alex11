@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Estrada",
+  "age": 51,
+  "address": {
+    "street": "Ivju Heights",
+    "city": "Izatani",
+    "state": "TX",
+    "zip": "81981"
+  },
+  "contact": {
+    "phone": "(324) 371-3643",
+    "servicePhone": "800447615"
+  },
+  "birthday": "1961-10-05T23:51:39.656Z",
+  "ip": "59.18.97.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Su gu hadudhan niahipo boznipem juvi idani oj awo ketbeut adoziptu hib beslo reg uwa. Fikhigfac pifpe ciglazlen dep owcuen zakniozi cab pa ca niz hi teplu acibanla mu. Gerovruf ih nusuz cetirot ragilol dob to kiv vo dabci hawuci musfir boleb. Icuwuno rumlupo gu bikun soene cosohpaw sossus ha woide fe be nigivbor bo faj jaipin naidser vitvol olni.",
+    "bio": "Lillahisi zacpav akegi cib kahlu cecmi itsirteb uwo de zo ragtifa mief. Abe upvon lojow okiuma iwa tab cewmogsec ju bodbuvet su ribo pis tulzurer weid. Panemwim befroh ijivecu awowanil ar zetilu nowvuwwo waaja etipa hudroep purosjiw avi meamjow sozat ci latub."
+  },
+  "apiKey": "f2ce9f958f183bf6e833661d365807baaa1825f53929e88a4f5c8b63edbdabeb",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
