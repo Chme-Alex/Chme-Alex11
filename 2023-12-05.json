@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Montgomery",
+  "age": 32,
+  "address": {
+    "street": "Ozgot Key",
+    "city": "Kenerehi",
+    "state": "ME",
+    "zip": "97415"
+  },
+  "contact": {
+    "phone": "(709) 252-5655",
+    "servicePhone": "800575839"
+  },
+  "birthday": "1995-02-24T22:42:11.942Z",
+  "ip": "237.153.112.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu ca lericu nozev futwas ragju jucfurji iwe ug ewwe emnem ca jedmo la ta. Zuc wamoom wubba hofarip hafjic das dimpuf udac tep ga tu oguuvaibu lubwu mokjo. Lejli iv ga sapwujgu ehutudi huwit jurnevu bove zanosuve bikigogi ibifjes led dirmaton tafgusut sojoci. Gofiba rufacga hi picpobow of las li anu ca ko zeb ze.",
+    "bio": "Fi megem joac pofhab ub tuathak gonsej gemtij mas ne lawbula pazolvo ovagu uki. Pazvoznic id guv pulrepiw dujevbo la wiz cawupiju cuhife rucavki katpimiz sifwelug ew suj ohhucu conu. Zikpiv berasso pijaeg bip soza otpezod odotepi zefocu bi mijiveji licleg osa dob."
+  },
+  "apiKey": "ce057172b32c7bb80dca1666788be26aab9256364b897089df57658ec955ab93",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
