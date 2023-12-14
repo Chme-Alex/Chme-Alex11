@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Baker",
+  "age": 19,
+  "address": {
+    "street": "Tuppa Point",
+    "city": "Bisugu",
+    "state": "HI",
+    "zip": "26320"
+  },
+  "contact": {
+    "phone": "(964) 261-8256",
+    "servicePhone": "800663455"
+  },
+  "birthday": "1983-11-08T07:10:17.505Z",
+  "ip": "109.0.72.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ililemde ugouw zutuh uvid nokoldoj gugoime tuftu jepkicik tu ipkeh lim amboz teez. Hu oljiku gewela duruheg ec pifakota radvoje husiklo nuzmif sefav fo ak. Bemaij zizih suslin laru mopin fasom pedce onko tozod ovocofa odeipo mubim saskeh dore rushoni.",
+    "bio": "Urfari udeli hudjiwoj epaik towak duvkivip pezdec en ko nicice ejojema nu ucamuip te efija usvaw fimkujel owzubu. Pifnonsi jab va kine pojef ragcok ulolu heb sekcuinu isuso dagde womo zo evo joki. Viivu ha fora nerlamu gul mun few nusakwot igi durpepsav baad viisehi kaperuvad rujucuhi tiz mep il ufsav. Paj pak jucdaja cocpibot ma edaoz rep ponusalug fa um muko mebel ridak piwo fas felsiwuw urizoted. Bitiziju gezse jipatowe isule ca udiwupij sibu iguge ifekuefa pi uwawacu sippif zaapesab. Tupimug hesacwip aja kuwmahvo necvuwve imake diomi et birub vag loffe zutu obduri anca vevrak."
+  },
+  "apiKey": "1a4a78d0578b1ff75967733bb3953b02b6a3a81f7ffde9131a9b4ebf29932842",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
