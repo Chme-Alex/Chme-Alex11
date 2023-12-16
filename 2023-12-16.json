@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Hanson",
+  "age": 22,
+  "address": {
+    "street": "Upmut Park",
+    "city": "Vuruzi",
+    "state": "MD",
+    "zip": "99007"
+  },
+  "contact": {
+    "phone": "(885) 226-7647",
+    "servicePhone": "800944269"
+  },
+  "birthday": "1989-12-20T20:05:04.242Z",
+  "ip": "90.153.25.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Zazad mepho hehmuj naja tul muw oberovmu jadtapi johribmo aje avrod bugsedwih sijej igufip lozizofi hajozude siow. Zacakam ipuvubo agotefeh cu sorilagu wa zok jevam ucual sil inlahsim guja ad pijikev zej ru huwioza. Zikjos rih bas dogvewi naufegu topo sur vihu ira ezmo uhwonuz berzaod neudiki fut zamfokot roltuk.",
+    "bio": "Hi nokfef buk kekko barsafgof puro wor zizmu co isconu fif kinu gok ukuvezob oto fektat. Idcitdo sap hiro ewu se dihikin gaz cisdezaz vow pi ziewi rec. Hake uw zonwef winafe ca tes kaaku jannik efsewa zacgas bi fehriwdo sifavah jubel ehooma dori otawagabe. Tajopuw veh koce wugpimmaj rif fopisoela woganub wewibab okacevep gow gup molgo urtowda zog basogfik cavdi vifuver. To cah kavur lor kasah titasa bamed gokugud tiuhu rosnabwaf hoko warcete ju of hu hi torim. Amaned nibim dapcelob wasud tiji riruh juhlisuh ga heahiili boaj cizah tofu."
+  },
+  "apiKey": "ff755a95942a3af337f40a1a2bba1da44c7e8f5fe53751c2abe0a0f75426d958",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
