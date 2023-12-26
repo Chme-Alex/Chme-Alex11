@@ -1,0 +1,26 @@
+{
+  "name": "Mina Ball",
+  "age": 35,
+  "address": {
+    "street": "Vipze Square",
+    "city": "Eruiduji",
+    "state": "MD",
+    "zip": "68371"
+  },
+  "contact": {
+    "phone": "(289) 284-9097",
+    "servicePhone": "800925527"
+  },
+  "birthday": "1969-08-24T09:58:15.674Z",
+  "ip": "91.29.65.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Susabzez keditiji ackinew ha tabaho kawrokror gowukdug vipuf nefdiuha fonuse efa kiz kukbu uvsijte howigo imwa vaweebe. Uce onibop foc pur ges diefipeg ka zufejiv po eh reiwi miujguj jace si. Sikto joubieja za osewejov cus huthapic temoim emfalu mev ono veibose agmofri.",
+    "bio": "Zorveto mufaza efjized uf ignulnur umeomo ceeju ha we eh zontuole ubjiofa ha ta co. Sajal jejiz fokfow ma fu ejho gotac omezaez jelsizur fed kij kerji tofbag nazsitu tuhi. Tuv zi boleotu arvazki epohu afudim jeswo hed ofgam imi tutivu azzu."
+  },
+  "apiKey": "e7cbfe2b196654a8e56c5c938935912a46c4fa9db1b07e3aa9a292a8d84253d1",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
