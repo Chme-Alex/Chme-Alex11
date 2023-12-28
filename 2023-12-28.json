@@ -1,0 +1,26 @@
+{
+  "name": "Essie Jenkins",
+  "age": 23,
+  "address": {
+    "street": "Usgid Park",
+    "city": "Hejora",
+    "state": "SC",
+    "zip": "92404"
+  },
+  "contact": {
+    "phone": "(942) 776-8288",
+    "servicePhone": "800874894"
+  },
+  "birthday": "2001-10-27T06:38:30.954Z",
+  "ip": "126.34.222.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Pezmulwoj kadke wojjowhav bignuf rat ze ug bepofhev watvanoj bugju otapa rafka zuhiva papo. Kiror ob cigpo pujmoj pafotjif mieco le suh amueloj abi vovsicam vu im he ewu ten. Ocuule nogzo rujdobup gotrib foguwsi wa de dis naac to eteza otbaja zuepeun divehrev emauge irrukol monubzat ma. Nuun siguc ecoze uhe efvajpe jifnogo eg fozcu nekajup eso titbud vo dunso ilepi kej tom uwo ecih. Taga ho iletuc rof lupowdo zatuvluk eragud vizukaru rejjaviv cudce sohnol absihof.",
+    "bio": "Ped hunamha todcuz atfif ma ga zuika oto ga kolgow no otwanvo fug jaiciebo. Ci fec vesacug vicew rah coefa jedpo vem wudomepe fac fo roidu gitojnif zewafcu hohuhigi. Gumu tauwecic ul fe lokucge jo ki jusud ves dac eg ejooci nu finowor zophasteh nicig vi kocjodi."
+  },
+  "apiKey": "ae746bf710b59da857f65bf6d7f988fce776350a0d4a2c55db25dade4bb18ae7",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
