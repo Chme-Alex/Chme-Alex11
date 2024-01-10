@@ -1,0 +1,26 @@
+{
+  "name": "Mary Little",
+  "age": 37,
+  "address": {
+    "street": "Diho Road",
+    "city": "Opautke",
+    "state": "AZ",
+    "zip": "98022"
+  },
+  "contact": {
+    "phone": "(842) 863-2081",
+    "servicePhone": "800563153"
+  },
+  "birthday": "1989-05-14T10:20:00.956Z",
+  "ip": "66.66.81.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Oridna hivuh esuindo foun gig mifenfu poamla cok ki riwsuvpo gujamoce wisfovsa morom. Tejubah jiol is lozave ik kinerrot zeda elciftu wokaroev isuafihe ewsiji ronsi. Ho tib law godcav mut consol buifzad pul riaf tujnif banar ez bijfobga tet ep zaaj ja sumvo.",
+    "bio": "Joobu dave fum nuwsewi wi cecod jeriloho kicapefo nihrosra roj olic ge rehujohin vageja awukadu tauv. Ibiwecas he di es raj biji fahet je ad kutam gobetce fitajagu. Ol da ajopuvze isu gubwewru ifi gi rih cusnehec lejtawfod gar ojonuplun nituke mec."
+  },
+  "apiKey": "ef2781f917a40842e266d504d80959c0c35ad53573d115736c1c97d091c1f78c",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
