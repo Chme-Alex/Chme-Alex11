@@ -1,0 +1,26 @@
+{
+  "name": "Jane Manning",
+  "age": 60,
+  "address": {
+    "street": "Ruzwi Street",
+    "city": "Jiwwalip",
+    "state": "ME",
+    "zip": "58245"
+  },
+  "contact": {
+    "phone": "(976) 277-4416",
+    "servicePhone": "800968671"
+  },
+  "birthday": "1989-02-05T11:38:53.206Z",
+  "ip": "246.166.24.71",
+  "foo": "bar",
+  "profile": {
+    "about": "If bokse ep zi izutal hucjussok kinjahoz sivhuwiw eti puf owmotcub nuugurem eraato lugejep bi nev waskitdez imom. Colsov dacem abaagiut owuvuk epewo tapco he esilukmoj niz kutciiru begiduco ro hizcusil. Wurecfe alivevhin sol four vupjel secru kat ilgek arion noz pa obhuajo leekogen la zol kanrez tevaeli jiblot. Sulo osjamoh oh mavgo rujjabhi afahi jafmed soewi ezrum lopor nicfimul rad tezawsu jec sodulu bozuku gec. Gejo gi maso lehhu opre upo rulfidil jiktu daev hasekcop kige nijis ep.",
+    "bio": "Osko luob rani wefpa wuz gu vi egku acdavan tepziok nifra zu ih agakes mogdoute waftug ti. Higjosli reef sujhivos nurhog omu elli tap mer din iga kurep goime rugbukot. Rasisud worivo zahopwaf lo uknob zi sokusa awewci nen cihajen it sakpageki pe povepgu li. Inedu ganwurit awfamav ji di ponel moc vuso oje vebagrur za ugfanis en wicvot we vugogo giwanit. Fu sondinom kuhewe kuvodgoj nu givfob nenepuju los cenultud duwmuli pamu je pijoj uco zecip. Jojtagep fupbiruri wepij zaz nur fidu fesajgaz zic gafahah lanwag ume bente. Cod gi mawur lidhabpid fubcun fuluwop hegig hawip rufdoj itimamuwi evsonve loittu vicimap opizarmec zuwbedju."
+  },
+  "apiKey": "5a309f02f241c3b33618d6b0cc0a50fb7f49a7203f40eeb5dc598a42f6463215",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
