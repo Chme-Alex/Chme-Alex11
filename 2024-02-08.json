@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Rose",
+  "age": 42,
+  "address": {
+    "street": "Agus Extension",
+    "city": "Juwcemu",
+    "state": "NM",
+    "zip": "74485"
+  },
+  "contact": {
+    "phone": "(572) 636-7168",
+    "servicePhone": "800942939"
+  },
+  "birthday": "1966-04-02T10:52:20.649Z",
+  "ip": "131.15.97.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Zazi basep guen dabfeczo suj beckad awzorwo illa jozjus takwid bavume bawec kigag rojocu puoge. Ehmi maafmu tunar zotu uk notavuw ki ca if ra izjegov zeef sorge juuj zuki timfak litzid mu. Hodudfa map zavat taz hor comepci delopoji inejow tejusav ujjiwcun piwuuwi ve ame jez wiaga ceegi. Wudo wo fijpi nal zubrec icmanhos lo baca sas fotekri lotbaf cesuife setkewo pufik ci.",
+    "bio": "Lahakha ewosa op kil so kovo di tawno rac gu te ti hupem azifiuda deduil va. Kat solu saamsup wi luvkehiwo vud wapuda wouw zikgarkip ek ewviv kupsag. Hiripjo na bip na nefaoko upowemse daka wem abesafo macamton uj waejku eliz ki sovelub. Orupapsa ulsadvof jecheigo paljan owuvarvid hevlu hiprovi ug kom mospizas funafic norha ed cozesho fuznudah daon datoiw ahwof. Nahos lepo ehnif upkozmuv cuwdagac vemuw efbi fef cajufvu go ganfu wezawviv firurkem zees be cek."
+  },
+  "apiKey": "9fc0ae39f68b3ea2cd20b336b1f780c98245cfffad9082bb62881979251c5b08",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
