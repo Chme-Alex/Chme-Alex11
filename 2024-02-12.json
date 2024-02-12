@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Mullins",
+  "age": 44,
+  "address": {
+    "street": "Neat Plaza",
+    "city": "Wucukzol",
+    "state": "MT",
+    "zip": "11289"
+  },
+  "contact": {
+    "phone": "(814) 439-3251",
+    "servicePhone": "800112242"
+  },
+  "birthday": "1986-09-17T03:21:48.651Z",
+  "ip": "207.233.165.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Tawogtin ci awsud ciibiwe aduji tiwe nuspe adu wapeze kicbe jovop udsaggat kac. On ticta nigob nofmol ruawi vuetoibi huj magkaf mub buluwifoc hami durippem. Pek bed ikte gowawiti kab ruwjimza ismu icduz jeluriese co im wun fuf darumvi pidok. Bov buga cuazoju coltaika fujrus giigawu egatog fozhegseg tibped ezsehwo tucnavip cigef pemu.",
+    "bio": "Vumjipbuf mali fuwa puv ji nu lipe rakwarodo fih gobjodo dop rod da pupruzag ri owvih idu zof. Rehun ja odatdi iwedicoga wauji ajouvo ako hogpudut pumpez gu ununo deb mek ma elenulbu ermet ge. Cataz van vur ce pozi ewusam pes jodi manro mewpuc buw zo uliv ku senazdaw dewut direno jigen."
+  },
+  "apiKey": "7d9235ad8ebb0d4d8271e5f6cc64e85c1d9a55ada76cfde00bb7e5b6e0c2a6f4",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
