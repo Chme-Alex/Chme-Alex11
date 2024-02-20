@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Robinson",
+  "age": 26,
+  "address": {
+    "street": "Kejeg Highway",
+    "city": "Mufhachaj",
+    "state": "OK",
+    "zip": "24071"
+  },
+  "contact": {
+    "phone": "(216) 703-1214",
+    "servicePhone": "800117171"
+  },
+  "birthday": "1998-05-10T07:10:09.130Z",
+  "ip": "119.154.161.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Bugohe me aluvu vuku motoz tovur bewpa minmew kekhiw go uw wan avrusha pasveraf foj. Peit te nu tijrabe ho lu monupwi ihu hev zolegsi kela si hahtu hav hawjis nutijiupa jamahusi ive. Tek zi getuegu cuk bisfoada pulveko gajacede bo zahgu zubbop maojo ko. Gi pi bisure fecov ba jurveci eli at amwik ojfujke bijlok me asuwe fif. Ju ucinozlev kogilape ekoop keuhto codmewat wepmuz pudnu gof wacge to olite.",
+    "bio": "Hasuk envablik guc uv idote bebagule bi okmuke radca gawerod ve rokipop jec bejosbu nessof roj rubfunca pi. Sichime esu uvicaval mi renki edonat ni sopki gefaodo ini firida ru geluhbo. Vowas vuhlo ani akral jinaz lan hu se feg dagsobu zufco tuviwo bumemi dok fuvfiere ze. Licsowa rot ahe fimif sedhe ibo nihhav mi gugebwa adfumur zera wekew. Kadelwu akzuuf kuwvat uci mogicocuv suzo uhju nima vefuv kicwubsav vaw ko rajihzon zitsid."
+  },
+  "apiKey": "07458ef7f35a5865d73904156ca3133aae5d8f31a2d46452c67347cf93ad3bef",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
