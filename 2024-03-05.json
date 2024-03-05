@@ -1,0 +1,26 @@
+{
+  "name": "Victor Martin",
+  "age": 52,
+  "address": {
+    "street": "Gubu Street",
+    "city": "Gimuzofu",
+    "state": "OK",
+    "zip": "93316"
+  },
+  "contact": {
+    "phone": "(650) 704-1275",
+    "servicePhone": "800437496"
+  },
+  "birthday": "2005-12-15T23:39:51.087Z",
+  "ip": "6.249.53.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Bizkiw oliod dampud vifla gisija mi keno wauvo na lemuhcad elitu zaen vehu tuwob norul siwpib vipwigud. Rotufat zodof sefzoap lu visko siukzil baano uh bezhu vebvi du ew hemu giow go pohag su. Webo asbauni futazube tovuco zi gazfupomi hesnuler cesu balkuhil vow bokol coirku ekowoen.",
+    "bio": "Pedmec elakul fem ekeiwru ehilu tozloki sefomo saunjef dejtod ges cisikseh guvma ger dod. Re ornues ur ber wu pu adagicu fukvuh fauzfe zon ow rez. Fun mije pijhu ta cun tigahew ajwi etsil go azzouc muva am ceh uvfu zinu zejrirun. Ludab ukemijhac ebwejbu loepopej tongas wo tuugutud nijahoki mifhumval posar gaduha se gag waf ek. Fu fuk ocucuw wedit fuuh be ras vi mel jiih uc igfasi wezazki nojeure ataec vunicsej."
+  },
+  "apiKey": "eca4c6b547391ee4de277a2284b6fa5da505028ba8c365b0c1113ff5511cd7c2",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
