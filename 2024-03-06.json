@@ -1,0 +1,26 @@
+{
+  "name": "Steve Sullivan",
+  "age": 48,
+  "address": {
+    "street": "Egaegu Heights",
+    "city": "Dewilef",
+    "state": "NY",
+    "zip": "77063"
+  },
+  "contact": {
+    "phone": "(533) 745-5749",
+    "servicePhone": "800549681"
+  },
+  "birthday": "1962-09-07T02:49:12.515Z",
+  "ip": "197.116.205.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikepused ezajikate eto ke dad igakaf lahegew ikunopoj zalaj mefuh ino zahvirpo uv. Ji pajen lokula nu he mi mejraog pi af nos gap tis. Ronifni zuninon lut nimlud ba kufba uzimernur ef wovijig ba emi ut du zuwit. Awhiset kemde esu odejubo jov ko poz repunbo fiugsan kuwtaho sohoza wudoro. Homli cowpokha uhu veehegu sibijal curdidga nen fevtodduh nesnimrab sechuv sefvo ulhapol doded. Suip osaanawo doneror wefnugan mof fefwiv murmaz engekgem wu besoric tinep oweuwi iharov.",
+    "bio": "Tufih opadaz faidtec baok og sibhaz rotehge li ogutu wedci kan wi woc kadco ge. Cikopa jir di ducceli him hucor butjedus zojemfe tud roboze elaupo wa. Afohekco cebes hi ul jutij ovu juakob gazir vonripfe viho epnov fodem. De vi dobvun cun sivzap dafre jiurmef mifsel mi jufoc lu rekcivgu gi. Komgas kabutu ejtif zawla datiduk bavme haffe izok girut re tozmu jaabome gipwupib dapbuspur hoc."
+  },
+  "apiKey": "fe54a0c706bf4f097ee4a756007e6359f3cb4dd4703e76e031e444f3fa6c64f4",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
