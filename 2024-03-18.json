@@ -1,0 +1,26 @@
+{
+  "name": "Norman Duncan",
+  "age": 51,
+  "address": {
+    "street": "Vegmut Court",
+    "city": "Lesalle",
+    "state": "SC",
+    "zip": "46600"
+  },
+  "contact": {
+    "phone": "(873) 905-3025",
+    "servicePhone": "800777482"
+  },
+  "birthday": "1975-11-30T20:06:24.551Z",
+  "ip": "59.160.204.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu iworadpok ovo ivlot ecto bejeka sat utrot nafo ze nuudara ubeba volivgok. Manon kofbe suzaba ugi wu ninkolug fidetu ren iwi vi jilji jeipeju vipil vazoip. Niamsiz sulewsu hihak od arifuine zifaew mag ded ukeoko lozcun ihnasen dofower mabam. Dafuk riczuk tomed li fadersu coz zuwuzo ibo wotu fa fegas odasa bolto hiceto tihilvo.",
+    "bio": "Feudipe dipewuv no me eluroj wiaca coihho tigzaden ji te vubuzo ep wijbume wi irpit. Olicow te wozagoduk epavi jere tib rag erguhsob ovupowvan tihraha edirgog udma. Kitato acepit jen pegeclos newdejetu nevjunuv ceha sabugedu hufo zebofih piinbuh jus."
+  },
+  "apiKey": "b388cd285f87e67fc8d5a1b06d6a49c7e725100a3838ce9a80b8e90e15584d2b",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
